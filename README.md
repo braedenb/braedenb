@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/braedenb/braedenb/braeden_brettin.jpg "Header")](https://www.linkedin.com/in/braeden-brettin/)
+[![Header](https://github.com/braedenb/braedenb/braeden_brettin.jpg "Header")](https://www.linkedin.com/in/braeden-brettin/)
 
 ### Hi there 👋
 
