@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/braedenb/braedenb/master/braeden_brettin.jpg "Header")](https://www.linkedin.com/in/braeden-brettin/)
-
 Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
